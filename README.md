@@ -6,8 +6,7 @@
 
 ```bash
 # 1. Клонируем репозиторий
-git clone https://github.com/WALL-EA7/sales_bot.git
-cd sales_bot
+git clone https://github.com/WALL-EA7/Telegram-Shop-Bot/tree/main
 
 # 2. Создаём .env и указываем токен бота
 cp .env.example .env
